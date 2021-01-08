@@ -1,0 +1,7 @@
+D:\Education\Claim Academy\Special\FindingPairInArray\FindingPairInArray\bin\Debug\FindingPairInArray.exe.config
+D:\Education\Claim Academy\Special\FindingPairInArray\FindingPairInArray\bin\Debug\FindingPairInArray.exe
+D:\Education\Claim Academy\Special\FindingPairInArray\FindingPairInArray\bin\Debug\FindingPairInArray.pdb
+D:\Education\Claim Academy\Special\FindingPairInArray\FindingPairInArray\obj\Debug\FindingPairInArray.csprojAssemblyReference.cache
+D:\Education\Claim Academy\Special\FindingPairInArray\FindingPairInArray\obj\Debug\FindingPairInArray.csproj.CoreCompileInputs.cache
+D:\Education\Claim Academy\Special\FindingPairInArray\FindingPairInArray\obj\Debug\FindingPairInArray.exe
+D:\Education\Claim Academy\Special\FindingPairInArray\FindingPairInArray\obj\Debug\FindingPairInArray.pdb
